@@ -22,7 +22,7 @@ Este serviço possui como objetivo produzir mensagens para o RabbitMQ através d
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Java](https://dev.java)
-- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Spring Framework](https://spring.io)
 - [RabbitMQ](https://www.rabbitmq.com)
 
 ---
